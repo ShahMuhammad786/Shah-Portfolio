@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "personalPortfolio",
-  "homepage": "http://ShahMuhammad786.github.io/Portfolio",
+  "homepage": ".",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
