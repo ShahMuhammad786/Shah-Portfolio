@@ -66,7 +66,7 @@ function Contact(props) {
                 alt=""
               />
             </div>
-            <div className="contact-heading-text-div">
+            <div className="contact-heading-text-div" style={{marginTop: 50}}>
               <h1
                 className="contact-heading-text"
                 style={{ color: theme.text }}
